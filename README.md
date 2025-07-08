@@ -1,6 +1,6 @@
 # Automated AWS Log Analyzer & Resiliency Framework
 
-![Project Architecture Diagram]([https://github.com/karindragimhan49/Aws-Log-Analyzer-SRE-Project/blob/5c05e94341e3156fee84e7e4f428b9f002d5cfa0/snap/digram.png])
+![Project Architecture Diagram](https://github.com/karindragimhan49/Aws-Log-Analyzer-SRE-Project/blob/5c05e94341e3156fee84e7e4f428b9f002d5cfa0/snap/digram.png)
 
 ## 🚀 Overview
 
@@ -62,11 +62,11 @@ The system is composed of several AWS services working in tandem to create a rob
 
 ### CloudWatch Monitoring Dashboard
 *A real-time view of the error count, providing instant visibility into system health.*
-![CloudWatch Dashboard]([Link_to_your_dashboard_screenshot])
+![CloudWatch Dashboard](https://github.com/karindragimhan49/Aws-Log-Analyzer-SRE-Project/blob/5c05e94341e3156fee84e7e4f428b9f002d5cfa0/snap/cloudwatch.png)
 
 ### Self-Healing in Action
 *The log file of the process monitor, showing that it detected a crashed process and automatically restarted it.*
-![Process Monitor Log]([Link_to_your_bash_log_screenshot])
+![Process Monitor Log](https://github.com/karindragimhan49/Aws-Log-Analyzer-SRE-Project/blob/5c05e94341e3156fee84e7e4f428b9f002d5cfa0/snap/Aws%20ec2%20.png)
 
 ---
 
