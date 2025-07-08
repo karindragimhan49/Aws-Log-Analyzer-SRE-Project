@@ -1,6 +1,6 @@
 # Automated AWS Log Analyzer & Resiliency Framework
 
-![Project Architecture Diagram]([Link_to_your_diagram_image_once_created])
+![Project Architecture Diagram]([https://github.com/karindragimhan49/Aws-Log-Analyzer-SRE-Project/blob/5c05e94341e3156fee84e7e4f428b9f002d5cfa0/snap/digram.png])
 
 ## 🚀 Overview
 
