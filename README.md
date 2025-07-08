@@ -27,8 +27,6 @@ This project was developed to showcase practical skills in cloud computing (AWS)
 
 The system is composed of several AWS services working in tandem to create a robust and automated pipeline.
 
-*(Your diagram will go here)*
-
 **Workflow:**
 1.  **Log Generation:** A Python script (`log_generator.py`) runs on an **Amazon EC2** instance, simulating application logs (INFO, WARNING, ERROR).
 2.  **Centralized Storage:** These log files are periodically uploaded to a dedicated **Amazon S3** bucket.
